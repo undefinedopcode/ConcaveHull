@@ -9,7 +9,7 @@ import (
 	"sort"
 	"github.com/furstenheim/go-convex-hull-2d"
 	"sync"
-	"github.com/furstenheim/SimpleRTree"
+	"github.com/undefinedopcode/SimpleRTree"
 	"math"
 	"github.com/paulmach/go.geo"
 	"github.com/paulmach/go.geo/reducers"
