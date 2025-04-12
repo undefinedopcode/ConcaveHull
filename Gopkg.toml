@@ -27,7 +27,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/furstenheim/SimpleRTree"
+  name = "github.com/undefinedopcode/SimpleRTree"
 
 [[constraint]]
   branch = "master"
