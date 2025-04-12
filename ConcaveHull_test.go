@@ -6,7 +6,7 @@ import (
 	"log"
 	"math"
 	"math/rand"
-	"github.com/furstenheim/SimpleRTree"
+	"github.com/undefinedopcode/SimpleRTree"
 	"bufio"
 	"os"
 	"strings"
